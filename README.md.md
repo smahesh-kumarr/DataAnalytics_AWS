@@ -1,3 +1,23 @@
+# 🌟 AWS Data Lake Pipeline Project — Amazon Dataset  
+A complete end‑to‑end AWS Data Lake implementation using **S3, Glue, Athena, Lake Formation, CloudWatch, and QuickSight**.
+
+<p align="center">
+  <img src="images/Architecture.png" width="700"/>
+</p>
+
+---
+
+# 📘 Table of Contents
+- [🚀 Project Overview](#-project-overview)
+- [📂 Architecture Diagram](#-architecture-diagram)
+- [🛠️ Step-by-Step Implementation](#️-step-by-step-implementation)
+- [🔒 Security & Governance](#-security--governance)
+- [📊 Visualization](#-visualization)
+- [🧪 Testing, Monitoring & Optimization](#-testing-monitoring--optimization)
+- [🎯 Outcomes](#-outcomes)
+
+---
+
 🎉 AWS Data Lake Pipeline Project - Amazon Dataset 🎉
 Welcome to the AWS Data Lake Pipeline Project! 🚀 This repository documents the end-to-end implementation of a data lake to ingest, catalog, transform, query, and secure an amazon.csv dataset using AWS services. Built from scratch on August 25, 2025, this project showcases a scalable solution for managing product data (e.g., category, rating). Let’s explore the journey! 🌟
 
@@ -215,4 +235,15 @@ CloudWatch: Monitors logs and metrics.
 
 
 
+
+
+
+---
+
+## ⭐ Author  
+**Mahesh Kumar S**
+
+If you like this repository, don’t forget to ⭐ star it!
+
+---
 
