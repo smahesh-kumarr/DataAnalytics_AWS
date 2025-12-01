@@ -1,6 +1,5 @@
 # 🌟 AWS Data Lake Pipeline — Amazon Dataset
 
-A polished, easy-to-read version of the original README. Same content, reorganized into clear, point-wise sections with improved spacing and headings.
 
 <p align="center">
   <img src="images/Architecture.png" alt="Architecture" width="700" />
@@ -65,7 +64,7 @@ A polished, easy-to-read version of the original README. Same content, reorganiz
 - Outcome: secure infrastructure foundation established.
 
 ![S3-Buckets](images/S3-Buckets.png)
-
+![Glue-Role](images/Glue-Role.png)
 ### 2. Data Ingestion
 
 - Prepared `amazon.csv` containing product fields (for example: category, rating).
@@ -130,7 +129,7 @@ A polished, easy-to-read version of the original README. Same content, reorganiz
 ![LakeFormation](images/LakeFormation.png)
 ![AdminUser](images/AnalysisTeamUser.png)
 ![Adminstrative Roles and Tasks](images/AdminRolesAndTask.png)
-![Colum-Based-Access](images/Colum-Based-Access.png)
+![Colum-Based-Access](images/Column-Based-Access.png)
 ![Trust-Relationship-Glue-Role](images/Trust-Relationship-Glue-Role.png)
 
 ### 7. Visualization & Insights
